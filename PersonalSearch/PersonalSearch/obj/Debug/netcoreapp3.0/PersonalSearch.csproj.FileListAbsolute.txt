@@ -1,0 +1,17 @@
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.exe
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.deps.json
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.runtimeconfig.json
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.runtimeconfig.dev.json
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.dll
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\bin\Debug\netcoreapp3.0\PersonalSearch.pdb
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.csprojAssemblyReference.cache
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch_MarkupCompile.cache
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch_MarkupCompile.lref
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.g.resources
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.AssemblyInfoInputs.cache
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.AssemblyInfo.cs
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.dll
+C:\Users\besko\source\repos\PersonalSearch\PersonalSearch\obj\Debug\netcoreapp3.0\PersonalSearch.pdb
